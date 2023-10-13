@@ -1,3 +1,5 @@
+This project was created for the purpose of showing how to use Redux in a React app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
