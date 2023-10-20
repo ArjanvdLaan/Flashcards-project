@@ -1,4 +1,6 @@
 This project was created for the purpose of showing how to use Redux in a React app.
+Users will be able to create their own topics, quizzes for those topics, and flashcards for those quizzes. 
+Users will also be able to interact with their quizzes by flipping flashcards over.
 
 # Getting Started with Create React App
 
